@@ -1,6 +1,4 @@
 *This is the family in the 2016*
-![This is the family in 2016](images/4558240fc7399f8130a21548986c0f6c.jpg)
-
+![[images/4558240fc7399f8130a21548986c0f6c.jpg|400]]
 Later...
-<img src=images/4558240fc7399f8130a21548986c0f6c.jpg alt=Family 2016 width=400/>
 
